@@ -1,0 +1,229 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\390ef5f7-5241-401b-9381-a4cc50de91a4_CheckedShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\390ef5f7-5241-401b-9381-a4cc50de91a4_CheckedShirt.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\7ac9d6f3-125c-48a6-8808-a1672331cbfa_a5e13dbb22b366e13e451045e479c2e8_tn.jpg",
+      "PackagePath": "staticwebassets\\images\\7ac9d6f3-125c-48a6-8808-a1672331cbfa_a5e13dbb22b366e13e451045e479c2e8_tn.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\89fabe66-0036-4a58-8610-e643264db443_tải xuống.jpg",
+      "PackagePath": "staticwebassets\\images\\89fabe66-0036-4a58-8610-e643264db443_tải xuống.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\8fb9d234-0d1f-469f-909c-46e6ad7a9d8e_BlackShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\8fb9d234-0d1f-469f-909c-46e6ad7a9d8e_BlackShirt.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\9a0b8232-2f54-438d-b033-efefbe8462ca_captaincool.jpg",
+      "PackagePath": "staticwebassets\\images\\9a0b8232-2f54-438d-b033-efefbe8462ca_captaincool.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\a2b43ce4-97a8-47f2-85a1-bd12c5e8e167_CheckedShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\a2b43ce4-97a8-47f2-85a1-bd12c5e8e167_CheckedShirt.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\abaa7af4-14a1-44df-a292-090fd073578a_BlackShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\abaa7af4-14a1-44df-a292-090fd073578a_BlackShirt.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\d65d6f86-1711-42a0-82b2-9778644637fc_KingKohli.jpg",
+      "PackagePath": "staticwebassets\\images\\d65d6f86-1711-42a0-82b2-9778644637fc_KingKohli.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\dc419220-455a-44c2-b7bf-10c9a78e7b1a_BlackShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\dc419220-455a-44c2-b7bf-10c9a78e7b1a_BlackShirt.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\dceb0031-b0a5-4175-8cbb-84df55d66d10_BlackShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\dceb0031-b0a5-4175-8cbb-84df55d66d10_BlackShirt.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\dfdcaab0-452c-4951-bd4b-240944c97d82_CheckedShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\dfdcaab0-452c-4951-bd4b-240944c97d82_CheckedShirt.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\e1c16a1e-3e85-423c-814d-cc4d502ac395_215904-200.png",
+      "PackagePath": "staticwebassets\\images\\e1c16a1e-3e85-423c-814d-cc4d502ac395_215904-200.png"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\e5304344-f9ed-4e67-8f83-b2b7056f1dcb_BlackShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\e5304344-f9ed-4e67-8f83-b2b7056f1dcb_BlackShirt.jpg"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\ff74a651-48fa-402a-acbb-0fbfcb21f0ba_noimage.png",
+      "PackagePath": "staticwebassets\\images\\ff74a651-48fa-402a-acbb-0fbfcb21f0ba_noimage.png"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\images\\noimage.png"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\images\\shoppingcart.png",
+      "PackagePath": "staticwebassets\\images\\shoppingcart.png"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\InventorySoftware\\InventoryBegin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.InventoryBeginners.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.InventoryBeginners.props",
+      "PackagePath": "build\\InventoryBeginners.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.InventoryBeginners.props",
+      "PackagePath": "buildMultiTargeting\\InventoryBeginners.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.InventoryBeginners.props",
+      "PackagePath": "buildTransitive\\InventoryBeginners.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
